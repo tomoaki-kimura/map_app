@@ -1,2 +1,8 @@
 # map_app
-for kids schools event
+
+地図に行った場所を表示させるアプリ
+
+キッズスクール・2023夏イベント用
+
+## ruby 3.2.1
+
